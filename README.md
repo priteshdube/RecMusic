@@ -57,9 +57,4 @@ streamlit run app.py
 ## Contributing
 Feel free to submit issues or fork the repository to enhance the project.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For questions or suggestions, reach out via [your email or GitHub].
 
